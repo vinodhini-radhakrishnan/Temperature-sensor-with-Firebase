@@ -45,7 +45,9 @@
 
    16. This is your “FIREBASE_HOST” string which we have written in Arduino program above.Add fields "temperature" and "humidity" in your project(firebase).
    17.Now put “FIREBASE_HOST” and “FIREBASE_AUTH” in Arduino program and upload the sketch. And we are done with setting up both sections. Now you can see the values updating in your firebase.
-    ![alt-text](https://github.com/vinodhini-radhakrishnan/Temperature-sensor-with-Firebase/blob/master/firebase%20data.jpeg)
+   
+   
+   ![alt-text](https://github.com/vinodhini-radhakrishnan/Temperature-sensor-with-Firebase/blob/master/firebase%20data.jpeg)
     
   For fabricating the circuit with a PCB , visit 
   For the tutorials on making case for the sensor , visit
