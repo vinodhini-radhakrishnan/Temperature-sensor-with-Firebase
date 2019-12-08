@@ -9,4 +9,5 @@
     data-D4
     gnd -gnd
     
- ![alt-text]()
+ ![alt-text](https://github.com/vinodhini-radhakrishnan/Temperature-sensor-with-Firebase/blob/master/connection.png)
+  ## Circuit connection
